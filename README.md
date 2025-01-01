@@ -31,7 +31,6 @@ streamlit run app.py
 
 - `streamlit`
 - `youtube_transcript_api`
-- `google-cloud-generativeai`
 - `python-dotenv`
 
 ## License
