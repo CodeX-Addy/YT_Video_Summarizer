@@ -1,6 +1,6 @@
 # YouTube Transcript App
 
-This Python application converts YouTube transcripts into detailed notes using the `youtube_transcript_api` and Google's Generative AI model. application uses Streamlit to create a user-friendly interface.
+This Python application converts YouTube transcripts into detailed notes using the `youtube_transcript_api` and Gemini's API
 
 ## Getting Started
 
