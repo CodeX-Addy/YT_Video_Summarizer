@@ -5,7 +5,7 @@ This Python application converts YouTube transcripts into detailed notes using t
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/yourusername/yt_transcript.git
+git clone https://github.com/CodeX-Addy/yt_transcript.git
 
 
 2. Create a `.env` file in the root directory of the project and add your Google API key:
